@@ -38,4 +38,5 @@ To run this, follow these steps:
 For any inquiries or feedback, please contact:
 
 Md Raihan Chowdhury - [raihan.chowdhury20@northsouth.edu]
+Mehrab Uddin Ahmed - [mehrab.ahmed@northsouth.edu]
 Project Link: [GitHub Repository](https://github.com/your-username/sorting-algorithm-visualizer)
